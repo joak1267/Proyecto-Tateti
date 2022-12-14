@@ -1,0 +1,10 @@
+C:\Users\Joa\source\repos\Tictuc\bin\Debug\Tictuc.exe.config
+C:\Users\Joa\source\repos\Tictuc\bin\Debug\Tictuc.exe
+C:\Users\Joa\source\repos\Tictuc\bin\Debug\Tictuc.pdb
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.csproj.AssemblyReference.cache
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.Form1.resources
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.Properties.Resources.resources
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.csproj.GenerateResource.cache
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.csproj.CoreCompileInputs.cache
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.exe
+C:\Users\Joa\source\repos\Tictuc\obj\Debug\Tictuc.pdb
